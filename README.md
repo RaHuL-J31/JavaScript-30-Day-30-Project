@@ -6,9 +6,8 @@ I will be doing 30 days Javascript challenge from Wes Bos (https://javascript30.
 Day | App name | Live Link
 ------------ | ------------- | -------------
 01 | JavaScript Drum Kit | https://agitated-aryabhata-17c1a2.netlify.app
-02 | JS and CSS Clock | - https://loving-murdock-dfa7aa.netlify.app/
-03 | JS | - JavaScript
-02 | JS | - JavaScript
-02 | JS | - JavaScript
-02 | JS | - JavaScript
-02 | JS | - JavaScript
+02 | JS and CSS Clock | https://loving-murdock-dfa7aa.netlify.app/
+03 | JS | JavaScript
+02 | JS | JavaScript
+02 | JS | JavaScript
+02 | JS | JavaScript
