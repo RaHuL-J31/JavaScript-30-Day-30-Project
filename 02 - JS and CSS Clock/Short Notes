@@ -1,0 +1,5 @@
+transform: rotate(90deg); // User to set hands at 12 all the time
+transition-timing-function: cubic-bezier(0.31, 0.68, 0.58, 1); // for making transition tweaking
+const now = new Date() // to get Date
+Some of date function used are getSeconds() getMinutes() getHours() 
+hourHand.style.transform = `rotate(${hourDegree}deg)` // adding style from JS
