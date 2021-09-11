@@ -1,0 +1,15 @@
+To set variable in CSS
+    :root{
+      --base : #ffc600;
+      --spacing : 50px;
+      --blur : 10px;
+    }
+Using variables
+    img{
+      padding: var(--spacing);
+      background: var(--base);
+      filter: blur(var(--blur));
+    }
+To access any HTML with data-key , data-name etc 
+    this.dataset can be used
+    this.data.key or this.dataset.name
